@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtsLabsExercise.Tests", "RtsLabsExercise.Tests\RtsLabsExercise.Tests.csproj", "{247F0550-81D3-4ED4-ABD2-4DC78202FE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtsLabsExercise", "RtsLabsExercise\RtsLabsExercise.csproj", "{35E2C56F-069E-4B61-840E-85D1611AA5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247F0550-81D3-4ED4-ABD2-4DC78202FE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247F0550-81D3-4ED4-ABD2-4DC78202FE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247F0550-81D3-4ED4-ABD2-4DC78202FE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247F0550-81D3-4ED4-ABD2-4DC78202FE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E2C56F-069E-4B61-840E-85D1611AA5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E2C56F-069E-4B61-840E-85D1611AA5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E2C56F-069E-4B61-840E-85D1611AA5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E2C56F-069E-4B61-840E-85D1611AA5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CAC520-1992-48D2-A186-9677A284466B}
+	EndGlobalSection
+EndGlobal
