@@ -1,6 +1,6 @@
 ﻿namespace RtsLabsExercise
 {
-    public class Algorithms
+    public static class Algorithms
     {
         public static AboveBelowResult AboveBelow(IList<int> integerList, int comparisonValue)
         {
